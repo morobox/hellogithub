@@ -18,6 +18,7 @@ markdown = Redcarpet.new("Hello World!")
 ```ada
 with Ada.Text_IO;
 use Ada.Text_IO;
+
 package Text is
   S : constant String := "hello";
 ```
