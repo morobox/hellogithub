@@ -26,3 +26,6 @@ package Text is
 and **this** and *that*.
 
 To install see [INSTALL](./INSTALL.md).
+
+or see this [hello script](src/hello.rb).
+
