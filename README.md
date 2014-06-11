@@ -24,3 +24,5 @@ package Text is
 ```
 
 and **this** and *that*.
+
+To install see [INSTALL](install.md).
