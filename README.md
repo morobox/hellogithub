@@ -9,7 +9,7 @@ Just doing a hello github to try things out.
 ## Testing Ruby
 
 ```ruby
-equire 'redcarpet'
+require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 ```
 
