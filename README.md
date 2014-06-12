@@ -27,5 +27,7 @@ and **this** and *that*.
 
 To install see [INSTALL](./INSTALL.md).
 
-or see this [hello script](src/hello.rb).
+OR see [hello script](src/hello.rb).
+
+
 
